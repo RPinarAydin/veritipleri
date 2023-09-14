@@ -1,0 +1,18 @@
+
+Console.WriteLine("Hello, World!");
+
+string str1 = string.Empty;
+str1 = "Pinar Aydin";
+string name="Pinar";
+string surname="Aydin";
+string fullName= name +" " + surname ;
+Console.WriteLine(name);
+Console.WriteLine(surname);
+Console.WriteLine(fullName);
+Console.ReadLine();
+
+
+int number1 =5;
+int number2 =3;
+Console.WriteLine(number1); 
+Console.ReadLine();
